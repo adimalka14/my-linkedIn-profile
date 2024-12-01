@@ -17,7 +17,7 @@ Here’s the initial design plan for the project:
 ## 🌄 Original Image
 This is the original image used in the project:
 
-![Original Image](public/original-image.png)
+![Original Image](public/profile-image.jpng)
 
 ---
 
