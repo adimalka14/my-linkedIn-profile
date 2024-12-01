@@ -3,9 +3,6 @@
 This is a simple profile page demo created using **HTML** and **CSS**, showcasing basic styling and layout capabilities. The page includes sections for personal details, links, and additional information. Below, you'll find the design plan and original image used for this project.
 
 ---
-## 🔗 Live Demo
-https://adimalka14.github.io/my-linkedIn-profile/
----
 
 ## 🎨 Design Plan
 Here’s the initial design plan for the project:
@@ -20,6 +17,11 @@ This is the original image used in the project:
 ![Original Image](public/linkedIn_profile.png)
 
 ---
+
+## Result page
+
+!Result page](public/result-page.png)
+
 
 ## 🛠️ Technologies Used
 - **HTML5**: Markup for structuring the profile layout.
