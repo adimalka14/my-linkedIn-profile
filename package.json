@@ -1,0 +1,14 @@
+{
+  "name": "my-linkedin-profile",
+  "version": "1.0.0",
+  "description": "create html&amp;css page of my linkedIn profile picture",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Adi",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
