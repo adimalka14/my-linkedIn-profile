@@ -17,7 +17,7 @@ Here’s the initial design plan for the project:
 ## 🌄 Original Image
 This is the original image used in the project:
 
-![Original Image](public/profile-img.jpeg)
+![Original Image](public/linkedIn_profile.png)
 
 ---
 
