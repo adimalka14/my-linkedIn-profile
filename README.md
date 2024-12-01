@@ -20,7 +20,7 @@ This is the original image used in the project:
 
 ## Result page
 
-!Result page](public/result-page.png)
+![Result page](public/result-page.png)
 
 
 ## 🛠️ Technologies Used
