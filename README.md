@@ -1,6 +1,6 @@
 # Profile Demo Project
 
-This is a simple profile page demo created using **HTML** and **CSS**, showcasing basic styling and layout capabilities. The page includes sections for personal details, links, and additional information. Below, you'll find the design plan and original image used for this project.
+This is a simple profile page demo created using **HTML** and **CSS**, showcasing basic styling and layout capabilities. The page includes sections for personal details, links, and additional information. Below, you'll find the design plan and original image used for this project.The project is implemented with a responsive design, ensuring an optimal display and functionality across all screen sizes and devices.
 
 ---
 
@@ -19,9 +19,13 @@ This is the original image used in the project:
 ---
 
 ## Result page
-
+### computer
 ![Result page](public/result-page.png)
 
+###phone
+![Result_page_phobe](public/phone-profile.png)
+
+---
 
 ## 🛠️ Technologies Used
 - **HTML5**: Markup for structuring the profile layout.
