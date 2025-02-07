@@ -22,7 +22,7 @@ This is the original image used in the project:
 ### computer
 ![Result page](public/result-page.png)
 
-###phone
+### phone
 ![Result_page_phobe](public/phone-profile.png)
 
 ---
